@@ -1,0 +1,1 @@
+HOST, USER, DATABASE = "localhost", "root", "hospital_db"
